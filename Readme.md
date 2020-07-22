@@ -1,9 +1,4 @@
-Chirag Bansal
-2018CS50402
-
-Assignment 4
-
-This is the readme of the assignment.
+#Excel Calculator
 
 I have made a simple makefile that makes the executable and also has a command called clean that will clean all the unnecessary files.
 
